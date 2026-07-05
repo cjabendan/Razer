@@ -2,7 +2,7 @@
 
 > **Notice:** This is a student school project created strictly for educational purposes as part of a front-end development activity. 
 
-This project is a front-end replica inspired by a reference photo of the official Razer website. All rights, logos, and asset designs belong to **Razer Inc.** 
+This project is a front-end replica inspired by a reference photo of the Razer website in Pinterest. All rights, logos, and asset designs belong to **Razer Inc.** 
 
 ---
 
